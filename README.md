@@ -1,6 +1,16 @@
 # Live Demo
 [https://cloned-react.web.app/]
 
+![test](https://i.ibb.co/VLr6gd4/Sample.png)
+
+This application is to replicate the basic function of Amazon Website
+- User register
+- User sign-in
+- Adding the product the cart
+- Check out and buy the product
+- Using Stripe as the payment method
+- Using Google Firebase for authentication and database
+
 # Getting Started
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
