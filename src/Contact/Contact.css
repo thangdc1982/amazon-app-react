@@ -1,0 +1,21 @@
+.contact {
+  display: flex;
+  justify-content: center;
+  margin-left: auto;
+  margin-right: auto;  
+}
+
+.contact-image {
+  width: 100%;
+  z-index: -1;  
+  mask-image: linear-gradient(to bottom, rgba(0, 0, 0, 1), rgba(0, 0, 0));
+}
+
+.bg-3 { 
+  background-color: #ffffff; /* White */
+  color: #555555;
+}
+
+.card {
+  border: none;
+}
