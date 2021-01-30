@@ -1,7 +1,4 @@
-# Live Demo
-[https://cloned-react.web.app/]
-
-![test](https://i.ibb.co/VLr6gd4/Sample.png)
+![Demo](https://i.ibb.co/VLr6gd4/Sample.png)
 
 This application is to replicate the basic function of Amazon Website
 - User register
